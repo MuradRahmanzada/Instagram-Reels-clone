@@ -3,7 +3,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBKaeZ7Ne8aEWYK1cafh8tCnyDcaqMGo5E",
+  apiKey: "yourApiKey",
   authDomain: "instagram-reels-8c093.firebaseapp.com",
   projectId: "instagram-reels-8c093",
   storageBucket: "instagram-reels-8c093.appspot.com",
